@@ -13,6 +13,7 @@ This is a web-based quiz application built with React. It fetches quiz data from
 1. Clone the repository.
 2. Run `npm install` to install dependencies, ensure to run this command inside quiz-app and also inside backend folder.
 3. Run `npm run dev` to start the development server.
+4. Run `node server.js` inside backend folder to start backend server.
 
 ## Screenshots
 ![Home Page](screenshots/Home.png)
